@@ -5,7 +5,7 @@ The RGB color value is displayed on the screen, and the background color updates
 
 ---
 
-## 🌈 Features
+## Features
 - Generates random RGB color values.
 - Displays the generated color in real time.
 - Simple and clean UI.
@@ -13,7 +13,7 @@ The RGB color value is displayed on the screen, and the background color updates
 
 ---
 
-## 🧠 How It Works
+## How It Works
 1. When you click the **Generate Color** button, a random RGB color is generated using JavaScript.
 2. The RGB value is displayed in the heading (`<h3>`).
 3. The background of the `<div>` element changes to the generated color.
